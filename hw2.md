@@ -1,4 +1,4 @@
-```
+``` mermaid
 gantt
     title 專案進度甘特圖
     dateFormat YYYY-MM-DD
